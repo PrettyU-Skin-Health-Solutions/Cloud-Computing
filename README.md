@@ -31,7 +31,7 @@ MODEL_URL=<url that link machine learning model>
 DB_HOST=<ip address of your database>
 DB_USER=<name of registered user>
 DB_PASSWORD=<database password>
-DB_DATABASE=<what databases you will use>
+DB_DATABASE=<what database you will use>
 ```
 4. Run your API server.
 ```
