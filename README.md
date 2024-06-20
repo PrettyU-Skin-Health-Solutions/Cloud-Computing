@@ -2,6 +2,13 @@
 
 This is a repository for the PrettyU API that will be used by the mobile development team using endpoints to interact with the server.
 
+# Cloud Computing Team Member
+
+| Name | Bangkit ID | University |
+| --------- | ---------| 
+| Muhammad Zharfan Alfanso     | C009D4KY0585      | Universitas Gunadarma |
+| Putu Indra Satria Nugraha     | C113D4KY0060      | ITB Stikom Bali |
+
 ## Requirements
 
 Required npm installation:
